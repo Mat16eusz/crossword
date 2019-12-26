@@ -1,0 +1,4 @@
+DEFINITIONS
+Jurusik
+moj_telefon
+dlugosc_fali
